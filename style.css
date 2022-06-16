@@ -46,13 +46,16 @@ p {
 
 /* Seção de Apresentação */
 #presentation{
-    background-image: url(./imagens/background.jpg);
+    background-image: url(./imagens/background2.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
+    width: 100vw;
+    height: 100vh;
 }
 .presentation{
-    padding-top: 200px;    
+    padding-top: 221.5px;
+    padding-bottom: 221.5px;    
 }
 #presentation h1{
     display: flex;
@@ -308,11 +311,15 @@ footer .span2:hover{
 
 /* Media Query */
 @media only screen and (min-width: 768px){
-    .section-title{
-        font-size: 5rem;
+    #presentation{
+        background-image: url(./imagens/background.jpg);
     }
     .presentation{
-        padding-top: 175px;    
+        padding-top: 177px;
+        padding-bottom: 177px;    
+    }
+    .section-title{
+        font-size: 5rem;
     }
     #presentation h1{
         font-size: 5rem;
