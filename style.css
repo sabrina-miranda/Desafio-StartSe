@@ -55,7 +55,7 @@ p {
 }
 .presentation{
     position:absolute;
-    top: 33%;
+    top: 30%;
 }
 #presentation h1{
     display: flex;
@@ -113,8 +113,8 @@ p {
     transition-property: background-color, color;
     cursor: pointer;
     border-radius: 25px;
-    width: 160px;
-    height: 40px;
+    width: 180px;
+    height: 45px;
     align-items: center;
     justify-content: center;
     margin-left: auto;
@@ -326,8 +326,8 @@ footer .span2:hover{
     }
     #presentation .bt{
         font-size: 2rem;
-        width: 220px;
-        height: 45px;
+        width: 230px;
+        height: 50px;
     }
     #colors .color-info h1{
         font-size: 4rem;
