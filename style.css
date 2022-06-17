@@ -54,8 +54,8 @@ p {
     height: 100vh;
 }
 .presentation{
-    padding-top: 221.5px;
-    padding-bottom: 221.5px;    
+    padding-top: 150px;
+    padding-bottom: 150px;    
 }
 #presentation h1{
     display: flex;
