@@ -231,20 +231,6 @@ p {
 #colors .color-item:hover .color-img img{
     transform: scale(1.1);
 }
-#colors .icon-home{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 50px;
-}
-#colors .icon-home img{
-    height: 50px;
-    width: 50px;
-}
-#colors .icon-home img:hover{
-    opacity: .7;
-    cursor: pointer;
-}
 
 
 /* Seção Rodapé */
@@ -255,6 +241,15 @@ footer{
 footer p{
     font-size: 0.9rem;
     padding-bottom: 10px;
+}
+footer p .dev{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+footer p .dev:hover{
+    color: #EB0A82;
 }
 footer .span1{
     font-weight: 700;
