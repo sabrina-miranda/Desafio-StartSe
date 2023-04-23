@@ -1,7 +1,7 @@
 # Desafio StartSe
 
-## Projeto:
+## Projeto - Guia das Cores:
 
-Site desenvolvido em HTML e CSS para o desafio proposto no curso da StartSe - Tech Academy.
+Está foi primeira página web que desenvolvi. Foi desenvolvida em HTML e CSS para o desafio proposto no curso da StartSe - Tech Academy.
 
-Tema escolhido: "Significado das CORES para MARKETING".
+Conteúdo: "Significado das CORES para MARKETING".
