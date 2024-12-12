@@ -240,7 +240,7 @@ footer{
 }
 footer p{
     font-size: 0.9rem;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
 }
 footer p .dev{
     color: black;
@@ -257,15 +257,6 @@ footer .span1{
 footer div img{
     position: relative;
     display: flex;
-}
-footer .credits a{
-    color: rgb(148, 148, 148);
-    font-size: 0.7rem;
-    margin-top: -5px;
-    cursor: pointer;
-}
-footer .span2:hover{
-    color: #EB0A82;
 }
 
 /* Keyframes */
