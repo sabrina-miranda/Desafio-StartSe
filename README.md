@@ -6,4 +6,4 @@ Está foi primeira página web que desenvolvi. Foi desenvolvida em HTML e CSS pa
 
 Conteúdo: "Significado das CORES para MARKETING".
 
-Imagem sem edição: Textura de banner vetor criado por vector_corp - br.freepik.com
+Imagem sem edição utilizada no projeto: Textura de banner vetor criado por vector_corp - br.freepik.com
